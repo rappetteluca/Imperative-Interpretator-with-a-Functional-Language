@@ -1,4 +1,4 @@
-#  Imperative Interpretator with a Functional-Language
+#  Imperative Interpreter with a Functional-Language
 ## CS421
 
 ## Author(s):
