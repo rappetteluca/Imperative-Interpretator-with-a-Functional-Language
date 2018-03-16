@@ -12,7 +12,7 @@ Lucas Rappette
 
 ## Description:
 
-- __Imperative Interpretor in Functional Language.scm__ defines an imperative interpretor that both validates and interprets a given program as input.
+- __Imperative Interpreter in Functional Language.scm__ defines an imperative interpreter that both validates and interprets a given program as input.
 The program input is written and interpreted in a fabricated language known as ART-C. For the full syntax, semantics, and precedence of ART-C please
 view the additional readme file. The additional readme file is the original assignment description. __This file is called _Imperative Language in a Functional Language.pdf_.__
 
